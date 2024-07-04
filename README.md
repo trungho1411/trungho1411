@@ -52,7 +52,5 @@
 
 <br/>
 
-<h1 align="center" style="font-family: Righteous; font-size: 35px; width: 500px; height: 70px;">
-    Thank you for visiting!
-</h1>
+# Thank you for visiting! 👋
 
