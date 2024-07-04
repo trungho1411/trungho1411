@@ -5,3 +5,10 @@
 </h1>
 
 <h3 align="center">A passionate software developer from Finland </h3>
+
+<div align="center">
+ 🔭 Actively looking to contribute and grow within an innovative organization.
+ 
+ 🌱 Dedicated to continuous learning and staying current with industry trends.
+
+</div>
