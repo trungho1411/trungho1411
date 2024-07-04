@@ -37,3 +37,7 @@
 
 <br/>
 <hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+[![Trung Ho's GitHub stats](https://github-readme-stats.vercel.app/api?username=trungho1411&count private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/trungho1411/github-readme-stats)
