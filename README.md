@@ -52,5 +52,7 @@
 
 <br/>
 
-# Thank you for visiting! 👋
+<h1 align="center" style="font-family: 'Righteous', sans-serif; font-size: 35px;">
+    Thank you for visiting! 👋
+</h1>
 
