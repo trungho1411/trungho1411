@@ -52,7 +52,7 @@
 
 <br/>
 
-<h1 align="center&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70>
+<h1 align="center" style="font-family: Righteous; font-size: 35px; width: 500px; height: 70px;">
     Thank you for visiting!
 </h1>
 
